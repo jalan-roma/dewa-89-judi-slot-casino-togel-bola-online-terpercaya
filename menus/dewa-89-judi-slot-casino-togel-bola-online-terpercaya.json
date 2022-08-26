@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle dewa-89-judi-slot-casino-togel-bola-online-terpercaya",
+        "command": "dewa-89-judi-slot-casino-togel-bola-online-terpercaya:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "dewa-89-judi-slot-casino-togel-bola-online-terpercaya",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "dewa-89-judi-slot-casino-togel-bola-online-terpercaya:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

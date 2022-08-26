@@ -1,0 +1,18 @@
+{
+  "name": "dewa-89-judi-slot-casino-togel-bola-online-terpercaya",
+  "main": "./lib/dewa-89-judi-slot-casino-togel-bola-online-terpercaya",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "dewa-89-judi-slot-casino-togel-bola-online-terpercaya:toggle"
+  },
+  "repository": "https://github.com/atom/dewa-89-judi-slot-casino-togel-bola-online-terpercaya",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
