@@ -1,9 +1,13 @@
 {
   "name": "dewa-89-judi-slot-casino-togel-bola-online-terpercaya",
   "main": "./lib/dewa-89-judi-slot-casino-togel-bola-online-terpercaya",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "dewa89 togel casino slot bola online",
-  "keywords": ["dewa89","dewa slot","dewa judi",""
+  "keywords": [
+    "dewa89",
+    "dewa slot",
+    "dewa judi",
+    ""
   ],
   "activationCommands": {
     "atom-workspace": "dewa-89-judi-slot-casino-togel-bola-online-terpercaya:toggle"
@@ -13,6 +17,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
